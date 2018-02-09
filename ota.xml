@@ -34,16 +34,16 @@
   <DonateURL nil="true" />
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
-  <Changelog>
-*Updated source to android-8.1.0_r10 (Febuary Patches)
-*Updated kernel
-*Added heads up options
-*Added CarrierLabel options
-*Added lockscreen font options
-*Added lockscreen rotation option
-*Added option to hide adb notification
-*Updated freetype to 2.9.0
-*Updated gapps to current versions
-*Other small changes. See changelog
+  <Changelog>### Changelog
+* Updated source to android-8.1.0_r10 (Febuary Patches)
+* Updated kernel
+* Added heads up options
+* Added CarrierLabel options
+* Added lockscreen font options
+* Added lockscreen rotation option
+* Added option to hide adb notification
+* Updated freetype to 2.9.0
+* Updated gapps to current versions
+* Other small changes. See changelog
 </Changelog>
 </ROM>
