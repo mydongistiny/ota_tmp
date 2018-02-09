@@ -31,7 +31,7 @@
   <WebsiteURL>https://forum.xda-developers.com/pixel-xl/development/twrp-alpha1-pixel-devices-t3500312</WebsiteURL>
   <!-- Your Donate URL -->
   <!-- OPTIONAL: Enter <DonateURL nil="true" /> to hide this -->
-  <DonateURL>none</DonateURL>
+  <DonateURL nil="true" />
   <!-- Put the changelog here... Use Markdown to format it -->
   <!-- Again, surround special characters with the CDATA tags or your XML will NOT parse -->
   <Changelog>
